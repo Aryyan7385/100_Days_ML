@@ -1,1 +1,15 @@
+🔹 Overview
+This project is a hands-on demonstration of collecting data from the web and preparing it for machine learning applications. 
+The Jupyter Notebook (day18.ipynb) walks through retrieving information from websites, organizing it into structured form, 
+and applying basic preprocessing so the data can be used in ML workflows.
+
+🔹 Key Highlights
+Written in Python
+
+Covers:
+Fetching web pages using requests
+Parsing HTML with BeautifulSoup
+Converting extracted data into structured tables with pandas
+Includes simple preprocessing steps useful before feeding data into ML models
+Flexible enough to adapt to multiple websites or datasets
 
